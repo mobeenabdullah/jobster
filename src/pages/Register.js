@@ -22,7 +22,6 @@ const Register = () => {
   const handleChange = (e) => {
     const name = e.target.name;
     const value = e.target.value;
-    console.log(`${name}:${value}`);
     setValues({ ...values, [name]: value });
   };
 
