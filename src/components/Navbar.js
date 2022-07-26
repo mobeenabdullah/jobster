@@ -41,7 +41,6 @@ const Navbar = () => {
               logout
             </button>
           </div>
-          ;
         </div>
       </div>
     </Wrapper>
