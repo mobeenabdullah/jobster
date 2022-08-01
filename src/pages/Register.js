@@ -99,7 +99,7 @@ const Register = () => {
             );
           }}
         >
-          {isLoading ? "loading..." : "demo"}
+          {isLoading ? "loading..." : "demo app"}
         </button>
 
         <p>
